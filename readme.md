@@ -2,7 +2,7 @@
 # Alura Space
 
 This project is being built alongside the Django Formation: Creating Python Applications, provided by Alura Cursos:
-- [ ] Django: Templates and Best Practices
+- [x] Django: Templates and Best Practices
 - [ ] Django: Data Persistence and Admin
 - [ ] Django: Form Authentication and Alerts
 - [ ] Django: CRUD and Persistence on S3
