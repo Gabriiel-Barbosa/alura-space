@@ -119,6 +119,8 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
 
+MESSAGE_STORAGE = 'django.contrib.messages.storage.session.SessionStorage'
+
 STATIC_URL = 'static/'
 
 STATICFILES_DIRS = [
@@ -138,4 +140,4 @@ MEDIA_URL= "/media/"
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
- 
+
