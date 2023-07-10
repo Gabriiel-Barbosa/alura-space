@@ -1,11 +1,13 @@
 
 # Alura Space
 
+- Projeto Finalizado
+
 This project is being built alongside the Django Formation: Creating Python Applications, provided by Alura Cursos:
 - [x] Django: Templates and Best Practices
 - [x] Django: Data Persistence and Admin
 - [x] Django: Form Authentication and Alerts
-- [ ] Django: CRUD and Persistence on S3
+- [x] Django: CRUD and Persistence on S3
 
 ## Description
 A web application that receives celestial body photos, stores them, and then displays them as a gallery on the website.
@@ -60,10 +62,13 @@ This will create a local copy of the project in your directory.
 
   
 ## Screenshots
-
+![Img01](readme-screenshots/01.png)
+![Img02](readme-screenshots/02.png)
+![Img03](readme-screenshots/03.png)
+![Img04](readme-screenshots/04.png)
 
 
 
 ## License
 
-
+Todos os direitos reservados a Alura 
